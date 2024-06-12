@@ -1,0 +1,84 @@
+body {
+    background-image: url(../img/comic0.jpg);
+    background-size: cover;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    margin: 0px;
+
+}
+
+.imgnav {
+    width: 100px;
+    height: 100px;
+}
+.textnav {
+    font-size: 2rem;
+}
+
+span {
+    font-size: 20px;
+    font-family: "honk", sans-serif;
+    text-align: center;
+}
+
+p {
+    color: white;
+    margin-left: 50px;
+    font-family: "bungee spice", sans-serif;
+}
+
+h1 {
+    font-family: "bungee spice", sans-serif;
+    text-align: center;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+}
+
+.ocultar {
+    display: none;
+}
+
+.card-title {
+    font-family: "honk", sans-serif;
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly
+}
+
+.titulo-img {
+    display: block;
+}
+
+h4 {
+    font-size: 80px;
+    font-family: "bungee spice", sans-serif;
+    margin: 0px;
+    text-align: center;
+}
+
+h5 {
+    font-size: 20px;
+    margin: 0px;
+}
+
+li {
+    font-family: "kanit", sans-serif;
+    text-shadow: 1px 1px 2px black;
+}
+
+.section2 {
+    background-image: url(../img/papelviejo.jpg);
+}
+
